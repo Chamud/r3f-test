@@ -59,7 +59,7 @@ const Background = ({ position, scale }) => {
 };
 
 const ImageBuilder = ({ setIsHoveredG }) => {
-    const img = '/src/assets/'
+    const img = '/'
 
     const positions1 = [
         [0, 0, 1.5], [0, 1.5, 0], [1.5, 0, 0], [0, 0, -1.5], [0, -1.5, 0],
